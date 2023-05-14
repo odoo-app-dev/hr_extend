@@ -6,11 +6,11 @@
         """,
 
     'description': """
-        
+        It added some 
     """,
 
     'author': "Arash Homayounfar",
-    'website': "https://karvazendegi.com",
+    'website': "https://github.com/odoo-app-dev/hr_extend",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/14.0/odoo/addons/base/data/ir_module_category_data.xml
