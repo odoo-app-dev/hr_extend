@@ -18,3 +18,6 @@ This module adds some variables to hr_employee.
     If it is set for someone and the employee is added to the following record,
         he or she can receive presents of the building report.
     Service Desk -> settings -> reports ; record:recipients
+
+## Supported Odoo Versions:
+- [odoo 15.0](https://github.com/odoo-app-dev/hr_extend/tree/15.0)
